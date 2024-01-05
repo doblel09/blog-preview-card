@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Figtree';
+    src: url('./fonts/Figtree-VariableFont_wght.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-shadow{
+    box-shadow: 8px 8px 0px black;
+}

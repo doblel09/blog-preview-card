@@ -1,0 +1,14 @@
+{
+  "name": "blog-preview-card-main",
+  "version": "1.0.0",
+  "description": "Challenge 1 fronend-mento by Luis Florentino",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss -i ./styles.css -o ./assets/styles.css --watch"
+  },
+  "author": "Luis Florentino",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
