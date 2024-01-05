@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://bright-granita-1c0fcd.netlify.app/)
+- Solution URL: [My Solution](https://bright-granita-1c0fcd.netlify.app/)
 
 ### Built with
 
@@ -52,6 +52,6 @@ I'm was a bit confused about the shorthand box-shadow but playing with the numbe
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/doblel09)
+- Frontend Mentor - [@DobleL09](https://www.frontendmentor.io/profile/doblel09)
 - Twitter - [@DobleL09](https://www.twitter.com/DobleL09)
 
